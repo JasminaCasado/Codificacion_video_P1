@@ -24,7 +24,7 @@ En nuestro caso ejecutamos el reescalado con los factores 2, 3 y 10.
 
 Como resultado obtenemos que el peso de la imagen original (72KB) se ve reducido a 26KB para el reescalado con factor 2, 14KB para el reescalado por factor 3 y 4K para el reescalado por factor 10. <br>
 
-![original](/Resultados/abstract.jpg) 
+![original](./Resultados/abstract.jpg) 
 ![half_original](/Resultados/abstract_2.jpg)
 ![3_original](/Resultados/abstract_3.jpg)
 ![10_original](/Resultados/abstract_10.jpg)
