@@ -37,7 +37,7 @@ Para este ejercicio usamos la instrucción
 
 Con esto lo que estamos indicando es que de la imagen que pasamos por referencia unicamente queremos quedarnos con la información de luminancia(Y) convirtiendo así nuestra imagen original en color a una imagen en blanco y negro. Esta imagen usa una compresión 4:2:0 o 4:0:0 (obteniendo el mismo resultado en KB), y su peso será de 52KB ya que no usamos toda la información de la imagen original. 
 
-![original_BW_](/Resultados/abstract_BW_.jpg)
+![original_BW_](https://github.com/JasminaCasado/Codificacion_video_P1/blob/main/Resultados%20/abstract_BW.jpg)
 
 ## 4. Implementacion del algoritmo Run Lenght
 Este algoritmo codifica una secuencia de entrada mediante el calculo de la repeticion de simbolos.
