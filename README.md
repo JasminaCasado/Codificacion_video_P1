@@ -22,7 +22,7 @@ En nuestro caso ejecutamos el reescalado con los factores 2, 3 y 10.
 `ffmpeg -i abstract.jpg -vf "scale=iw/3:ih/3" abstract_3.png`
 `ffmpeg -i abstract.jpg -vf "scale=iw/10:ih/10" abstract_10.png`
 
-Como resultado obtenemos que el peso de la imagen original (72KB) se ve reducido a 26KB para el reescalado con factor 2, 14KB para el reescalado por factor 3 y 4K para el reescalado por factor 10. 
+Como resultado obtenemos que el peso de la imagen original (72KB) se ve reducido a 26KB para el reescalado con factor 2, 14KB para el reescalado por factor 3 y 4K para el reescalado por factor 10. <br>
 
 ![original](/Resultados/abstract.jpg) 
 ![half_original](/Resultados/abstract_2.jpg)
